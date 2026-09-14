@@ -1,5 +1,9 @@
 # Auditing_Guest_User_Access
 
+
+
+
+
 # Guest User Access Auditor
 ### Microsoft Entra ID | PowerShell | Microsoft Graph API
 
@@ -7,6 +11,8 @@
 Automatically audits every guest user in a Microsoft Entra ID tenant identifying who was invited, when they last signed in, and whether their access is still justified. Flags stale and inactive accounts that represent unnecessary security risk and exports a prioritized remediation report.
 
 ## Executive Summary
+
+
 
 **Problem:** Organizations invite external users — vendors, contractors, partners — 
 and have no automated way to track whether those accounts are still active or 
